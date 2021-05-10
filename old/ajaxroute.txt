@@ -1,0 +1,34 @@
+typing parent: funfilltyping.py
+p1: reqtype
+p2: origin
+p3: unused
+p4: unused
+p5: unused
+p6: unused
+p7: unused
+p8: unused
+result: json array containing matching values with parameters, stopname and id
+
+getnamefromid parent: getnamefromid.py
+p1: id
+p2: unused
+p3: unused
+p4: unused
+p5: unused
+p6: unused
+p7: unused
+p8: unused
+
+result: single word, indicating the stopname of given id
+
+getidfromname parent: getnamefromid.py
+p1: stopname
+p2: unused
+p3: unused
+p4: unused
+p5: unused
+p6: unused
+p7: unused
+p8: unused
+
+result: single number, indicating the id of the given stopname

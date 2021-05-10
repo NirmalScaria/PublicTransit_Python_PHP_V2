@@ -1,0 +1,374 @@
+[10-Apr-2019 21:03:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/parakcyy/public_html/beta/addstop2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/addstop2.php on line 5
+[10-Apr-2019 21:04:33 Etc/GMT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/parakcyy/public_html/beta/addstop2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/addstop2.php on line 5
+[10-Apr-2019 21:05:06 Etc/GMT] PHP Warning:  file_get_contents(https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/parakcyy/public_html/beta/addstop2.php on line 5
+[10-Apr-2019 21:05:35 Etc/GMT] PHP Warning:  file_get_contents(https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/parakcyy/public_html/beta/addstop2.php on line 5
+[10-Apr-2019 21:05:57 Etc/GMT] PHP Warning:  file_get_contents(https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/parakcyy/public_html/beta/addstop2.php on line 5
+[10-Apr-2019 21:07:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'DATA' (T_STRING), expecting ',' or ')' in /home/parakcyy/public_html/beta/addstop2.php on line 9
+[10-Apr-2019 21:10:26 Etc/GMT] PHP Warning:  file_get_contents(https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:10:47 Etc/GMT] PHP Notice:  Undefined variable: urllf in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:10:47 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:11:11 Etc/GMT] PHP Warning:  file_get_contents(https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:12:08 Etc/GMT] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:12:08 Etc/GMT] PHP Warning:  include(https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in): failed to open stream: no suitable wrapper could be found in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:12:08 Etc/GMT] PHP Warning:  include(): Failed opening 'https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:12:53 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:12:53 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 6
+[10-Apr-2019 21:14:43 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:14:43 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:16:10 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:16:10 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:16:10 Etc/GMT] PHP Notice:  Undefined variable: Urll in /home/parakcyy/public_html/beta/addstop2.php on line 98
+[10-Apr-2019 21:16:46 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:16:46 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:16:46 Etc/GMT] PHP Notice:  Undefined variable: Urll in /home/parakcyy/public_html/beta/addstop2.php on line 98
+[10-Apr-2019 21:17:57 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:17:57 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:17:57 Etc/GMT] PHP Notice:  Undefined variable: Urll in /home/parakcyy/public_html/beta/addstop2.php on line 98
+[10-Apr-2019 21:18:47 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:18:47 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:19:00 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:19:00 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:20:10 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=xml&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:20:10 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=xml&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:21:00 Etc/GMT] PHP Warning:  include('https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'): failed to open stream: No such file or directory in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:21:00 Etc/GMT] PHP Warning:  include(): Failed opening ''https://nominatim.openstreetmap.org/search.php?q=kottayam&amp;format=json&amp;countrycodes=in'' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/parakcyy/public_html/beta/addstop2.php on line 97
+[10-Apr-2019 21:23:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/parakcyy/public_html/beta/addstop2.php on line 98
+[10-Apr-2019 21:24:13 Etc/GMT] PHP Notice:  Undefined index: q in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:24:44 Etc/GMT] PHP Notice:  Undefined index: q in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:26:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/parakcyy/public_html/beta/addstop2.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:26:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/parakcyy/public_html/beta/addstop2.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:26:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/parakcyy/public_html/beta/addstop2.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:27:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/parakcyy/public_html/beta/addstop2.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:28:21 Etc/GMT] PHP Notice:  Undefined variable: str in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:28:49 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:29:19 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:29:19 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 99
+[10-Apr-2019 21:30:25 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:30:25 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 99
+[10-Apr-2019 21:30:46 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:30:46 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 99
+[10-Apr-2019 21:31:48 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:31:48 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 99
+[10-Apr-2019 21:33:16 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 96
+[10-Apr-2019 21:33:16 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 99
+[11-Apr-2019 06:44:06 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 77
+[11-Apr-2019 06:44:06 Etc/GMT] PHP Notice:  Undefined variable: GET in /home/parakcyy/public_html/beta/addstop2.php on line 80
+[11-Apr-2019 09:05:31 Etc/GMT] PHP Notice:  Undefined index: id in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:05:31 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:05:31 Etc/GMT] PHP Notice:  Undefined index: lastname in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:06:40 Etc/GMT] PHP Notice:  Undefined index: lastname in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:09:00 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:09:00 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:09:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:20
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(31): getnamefromid(1400)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:09:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnameformid() in /home/parakcyy/public_html/beta/showroute.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 31
+[11-Apr-2019 09:09:55 Etc/GMT] PHP Notice:  Undefined index: routeid in /home/parakcyy/public_html/beta/showroute.php on line 5
+[11-Apr-2019 09:09:55 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnameformid() in /home/parakcyy/public_html/beta/showroute.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 31
+[11-Apr-2019 09:09:58 Etc/GMT] PHP Notice:  Undefined index: routeid in /home/parakcyy/public_html/beta/showroute.php on line 5
+[11-Apr-2019 09:09:58 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnameformid() in /home/parakcyy/public_html/beta/showroute.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 31
+[11-Apr-2019 09:09:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnameformid() in /home/parakcyy/public_html/beta/showroute.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 31
+[11-Apr-2019 09:10:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnameformid() in /home/parakcyy/public_html/beta/showroute.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 31
+[11-Apr-2019 09:10:35 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:10:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:10:43 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:10:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:11:00 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:11:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:11:02 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:11:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:11:11 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:11:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:11:23 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:11:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:12:40 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:12:40 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:12:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:20
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(31): getnamefromid(993)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:12:53 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:12:53 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:12:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:20
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(31): getnamefromid('993')
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:13:01 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 19
+[11-Apr-2019 09:13:01 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:13:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:20
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(31): getnamefromid('993')
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:14:00 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:14:00 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:14:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:21
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(33): getnamefromid()
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:14:38 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:14:38 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:14:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:21
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(34): getnamefromid()
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:16:01 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:16:01 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:16:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:21
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(34): getnamefromida()
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 21
+[11-Apr-2019 09:16:13 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:16:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:16:35 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:16:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:16:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:17:09 Etc/GMT] PHP Notice:  Undefined variable: ida in /home/parakcyy/public_html/beta/showroute.php on line 20
+[11-Apr-2019 09:17:09 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:17:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 34
+[11-Apr-2019 09:18:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 35
+[11-Apr-2019 09:18:33 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 37
+[11-Apr-2019 09:19:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 85
+[11-Apr-2019 09:19:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 83
+[11-Apr-2019 09:20:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 83
+[11-Apr-2019 09:21:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 69
+[11-Apr-2019 09:24:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 83
+[11-Apr-2019 09:25:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 83
+[11-Apr-2019 09:26:24 Etc/GMT] PHP Notice:  Undefined variable: idama in /home/parakcyy/public_html/beta/showroute.php on line 18
+[11-Apr-2019 09:26:48 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:26:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(83): getnamefromid(933)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:02 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(83): getnamefromid(933)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:22 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(84): getnamefromid(933)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:34 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:34 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(84): getnamefromid(933)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:53 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:27:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(84): getnamefromid(933)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:28:11 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:28:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(84): getnamefromid('933')
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:28:26 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:28:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(84): getnamefromid('"933"')
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:28:57 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:28:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:22
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(85): getnamefromid('933')
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 22
+[11-Apr-2019 09:29:48 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/parakcyy/public_html/beta/showroute.php on line 18
+[11-Apr-2019 09:29:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function getnamefromid() in /home/parakcyy/public_html/beta/showroute.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 84
+[11-Apr-2019 09:30:15 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:30:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:23
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(85): getnamefromid(993)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:30:31 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:30:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:23
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(85): getnamefromid(993)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:30:41 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:30:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:23
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(85): getnamefromid(993)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:31:05 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:31:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:23
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(87): getnamefromid(993)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:31:48 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:31:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/parakcyy/public_html/beta/showroute.php:23
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(87): getnamefromid(993)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 09:36:00 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:36:00 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:36:23 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:36:23 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:36:23 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/parakcyy/public_html/beta/showroute.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 40
+[11-Apr-2019 09:36:56 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:36:56 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:36:56 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 40
+[11-Apr-2019 09:37:48 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:37:48 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:37:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 40
+[11-Apr-2019 09:38:10 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:38:10 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:38:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/parakcyy/public_html/beta/showroute.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 41
+[11-Apr-2019 09:38:31 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:38:31 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:38:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 40
+[11-Apr-2019 09:38:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 41
+[11-Apr-2019 09:38:43 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:38:43 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/parakcyy/public_html/beta/showroute.php on line 39
+[11-Apr-2019 09:38:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 41
+[11-Apr-2019 09:39:00 Etc/GMT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/parakcyy/public_html/beta/showroute.php on line 40
+[11-Apr-2019 09:40:58 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/parakcyy/public_html/beta/showroute.php on line 49
+[11-Apr-2019 09:42:31 Etc/GMT] PHP Notice:  Undefined variable: stopname in /home/parakcyy/public_html/beta/showroute.php on line 46
+[11-Apr-2019 09:42:37 Etc/GMT] PHP Notice:  Undefined variable: stopname in /home/parakcyy/public_html/beta/showroute.php on line 46
+[11-Apr-2019 09:44:11 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/parakcyy/public_html/beta/showroute.php on line 45
+[11-Apr-2019 09:44:11 Etc/GMT] PHP Notice:  Undefined index: lastname in /home/parakcyy/public_html/beta/showroute.php on line 45
+[11-Apr-2019 09:44:11 Etc/GMT] PHP Notice:  Undefined variable: stopname in /home/parakcyy/public_html/beta/showroute.php on line 53
+[11-Apr-2019 09:44:37 Etc/GMT] PHP Notice:  Undefined variable: stopname in /home/parakcyy/public_html/beta/showroute.php on line 53
+[11-Apr-2019 09:44:55 Etc/GMT] PHP Notice:  Undefined variable: stopname in /home/parakcyy/public_html/beta/showroute.php on line 53
+[11-Apr-2019 09:45:03 Etc/GMT] PHP Notice:  Undefined variable: stopname in /home/parakcyy/public_html/beta/showroute.php on line 53
+[11-Apr-2019 09:49:09 Etc/GMT] PHP Notice:  Array to string conversion in /home/parakcyy/public_html/beta/showroute.php on line 106
+[11-Apr-2019 09:55:00 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:55:00 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:55:12 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:55:12 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:56:27 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:56:27 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:56:27 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:57:02 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:57:02 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 09:57:02 Etc/GMT] PHP Warning:  A non-numeric value encountered in /home/parakcyy/public_html/beta/showroute.php on line 117
+[11-Apr-2019 10:01:56 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getnamefromid(), 1 passed in /home/parakcyy/public_html/beta/showroute.php on line 107 and exactly 2 expected in /home/parakcyy/public_html/beta/showroute.php:23
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(107): getnamefromid(143)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 23
+[11-Apr-2019 10:39:09 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 26
+[11-Apr-2019 10:39:09 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 26
+[11-Apr-2019 12:31:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 26
+[11-Apr-2019 12:31:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 26
+[11-Apr-2019 14:49:40 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getrealnamefromid(), 1 passed in /home/parakcyy/public_html/beta/showroute.php on line 146 and exactly 2 expected in /home/parakcyy/public_html/beta/showroute.php:36
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(146): getrealnamefromid('55')
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 36
+[11-Apr-2019 14:55:04 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:55:21 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:55:43 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:55:43 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getrealnamefromid(), 1 passed in /home/parakcyy/public_html/beta/showroute.php on line 158 and exactly 2 expected in /home/parakcyy/public_html/beta/showroute.php:36
+Stack trace:
+#0 /home/parakcyy/public_html/beta/showroute.php(158): getrealnamefromid(16)
+#1 {main}
+  thrown in /home/parakcyy/public_html/beta/showroute.php on line 36
+[11-Apr-2019 14:55:54 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:56:12 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:56:46 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:57:08 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 14:57:36 Etc/GMT] PHP Notice:  Undefined index: times in /home/parakcyy/public_html/beta/showroute.php on line 66
+[11-Apr-2019 15:05:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/parakcyy/public_html/beta/showroute.php on line 164
+[12-Apr-2019 08:50:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 26
+[12-Apr-2019 08:50:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 26
+[12-Apr-2019 08:50:31 Etc/GMT] PHP Notice:  Undefined variable: busname in /home/parakcyy/public_html/beta/showroute.php on line 143
+[12-Apr-2019 08:50:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 37
+[12-Apr-2019 08:50:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/parakcyy/public_html/beta/showroute.php on line 37
